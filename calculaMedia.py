@@ -1,3 +1,5 @@
+orint = ("seja bem vindo")
+
 nota1 =int(input("NOTA 1: "))
 nota2 =int(input("NOTA 2: "))
 
